@@ -11,15 +11,17 @@ When you rebuy it, it will be cheaper, because it gets the lowest level on merch
 
 ## How to use it
 
-The game need to be in legacy mode, default Key is [G]
-the game need to be fullscreen and on 800x600 res on legacy mode.
+- The game needs to be in legacy mode, default Key is [G].
+- The game needs to be fullscreen and set to 800x600 resolution in legacy mode.
 
-Download python 3 and download the script sourc foldere.
-run on console inside the downloaded folder: "pip install -r requirements.txt"
-open the game, put it on legacy mode go to merchant store, open the trade menu e go to weapon tab.
-Make sure it has enough space on tab for the sold item go to.
-Equip the item with lvl based maximum damage on main hand and Sell it.
-Now run the script and position the cursor the sold item frame on the merchant invetory.
-And it should start to buy it and re-sell.
+To use the glitch:
 
-To stop the script just prest ESC button.
+1. Download Python 3 and download the script source folder.
+2. Run in console inside the downloaded folder: "pip install -r requirements.txt".
+3. Open the game, switch it to legacy mode, go to the merchant store, open the trade menu, and navigate to the weapon tab.
+4. Ensure there is enough space on the tab for the sold item to go to.
+5. Equip the item with level-based maximum damage on the main hand and Sell it.
+6. Now run the script and position the cursor on the sold item frame in the merchant inventory.
+7. It should start to buy it and re-sell.
+
+To stop the script, just press the ESC button.
