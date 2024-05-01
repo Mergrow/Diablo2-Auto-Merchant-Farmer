@@ -13,7 +13,7 @@ runs = 0
 running = True
 
 console.print("[cyan]Starting in 5 seconds...")
-console.print("[cyan]Pos cursor on sold itemframe!")
+console.print("[cyan]Position the cursor on sold itemframe!")
 time.sleep(5)
 buyframe = pya.position()
 console.print("[green]Script started!")
