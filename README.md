@@ -11,6 +11,9 @@ When you rebuy it, it will be cheaper, because it gets the lowest level on merch
 
 ## How to use it
 
+The game need to be in legacy mode, default Key is [G]
+the game need to be fullscreen and on 800x600 res on legacy mode.
+
 Download python 3 and download the script sourc foldere.
 run on console inside the downloaded folder: "pip install -r requirements.txt"
 open the game, put it on legacy mode go to merchant store, open the trade menu e go to weapon tab.
@@ -19,4 +22,4 @@ Equip the item with lvl based maximum damage on main hand and Sell it.
 Now run the script and position the cursor the sold item frame on the merchant invetory.
 And it should start to buy it and re-sell.
 
-To stop script just prest ESC button.
+To stop the script just prest ESC button.
