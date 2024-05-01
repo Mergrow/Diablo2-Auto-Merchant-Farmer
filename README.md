@@ -22,6 +22,21 @@ To use the glitch:
 4. Ensure there is enough space on the tab for the sold item to go to.
 5. Equip the item with level-based maximum damage on the main hand and Sell it.
 6. Now run the script using ```py diablo2.py``` and position the cursor on the sold item frame in the merchant inventory.
-7. It will start to buy it and re-sell it.
+
+
+![Console](https://img001.prntscr.com/file/img001/Bp_0Dl9yQH-MgvZOK0zS9Q.png)
+
+
+It will start to buy it and re-sell it.
+
+
+![Imgur](https://s12.gifyu.com/images/SaH22.gif)
+
+
 
 To stop the script, just press the ESC button.
+
+
+
+
+
