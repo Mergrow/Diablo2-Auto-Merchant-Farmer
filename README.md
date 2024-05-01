@@ -30,7 +30,7 @@ To use the glitch:
 It will start to buy it and re-sell it.
 
 
-![Imgur](https://s12.gifyu.com/images/SaH22.gif)
+![Demo File](https://github.com/Mergrow/Diablo2-Auto-Merchant-Farmer/demo.gif)
 
 
 
