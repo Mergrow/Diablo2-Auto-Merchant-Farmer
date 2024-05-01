@@ -6,7 +6,7 @@ Use the old merchant glitch to auto farm gold.
 ## How the glitch woks
 More atributes that you items have, more expensive they are.
 So the glitch consists on getting a item with "To maximum damage (based on character level)", this way when the item is equipped the merchant will pay the price based on your character level.
-When you rebuy it, it will be cheaper, because it gets the lowest level on merchant inventory.
+When you rebuy it, it will be cheaper, because it gets the lowest roll on merchant inventory.
 
 
 ## How to use it
