@@ -21,7 +21,7 @@ To use the glitch:
 3. Open the game, switch it to legacy mode, go to the merchant store, open the trade menu, and navigate to the weapon tab.
 4. Ensure there is enough space on the tab for the sold item to go to.
 5. Equip the item with level-based maximum damage on the main hand and Sell it.
-6. Now run the script and position the cursor on the sold item frame in the merchant inventory.
-7. It should start to buy it and re-sell.
+6. Now run the script using ```py diablo2.py``` and position the cursor on the sold item frame in the merchant inventory.
+7. It will start to buy it and re-sell it.
 
 To stop the script, just press the ESC button.
